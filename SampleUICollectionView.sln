@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleUICollectionView", "SampleUICollectionView\SampleUICollectionView.csproj", "{AE52923A-AD67-4702-BF35-A6058A98EC04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Release|iPhone.Build.0 = Release|iPhone
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AE52923A-AD67-4702-BF35-A6058A98EC04}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+	EndGlobalSection
+EndGlobal
